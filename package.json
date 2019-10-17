@@ -1,0 +1,23 @@
+{
+  "name": "p1-app",
+  "version": "0.0.1",
+  "description": "P1 App - Rest API",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo 'Error: no test specified' && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajanGan/nodejs_p1.git"
+  },
+  "keywords": [
+    "p1"
+  ],
+  "author": "Rajarajan Ganesan",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/rajanGan/nodejs_p1/issues"
+  },
+  "homepage": "https://github.com/rajanGan/nodejs_p1#readme"
+}
