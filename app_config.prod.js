@@ -1,6 +1,6 @@
 /* Dev config */
 
-var app_config = require('./app_config.default');
+let app_config = require("./app_config.default");
 
 
 /* App info  */
