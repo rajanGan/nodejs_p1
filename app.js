@@ -20,4 +20,4 @@ print_msg();
 //js_dtype.print_dtype();
 //console.log(js_dtype.v1);
 
-http.createServer( (req,res) => { res.write(JSON.stringify(req.headers)); res.end();  } ).listen(5000);
+http.createServer( (req,res) => { res.write(JSON.stringify(req.headers)); res.end();  } ).listen(process.env.PORT || 5000);
