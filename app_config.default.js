@@ -12,4 +12,4 @@ app_config.db.url = "dummy";
 app_config.db.user = "testuser";
 app_config.db.pwd = "testpwd";
 
-module.exports(app_config);
+module.exports = app_config;
